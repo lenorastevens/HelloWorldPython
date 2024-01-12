@@ -15,4 +15,6 @@ The purpose of creating this software is to begin to explore different programmi
 
 # Useful Websites
 
-* [Program Challenge Site](https://byui.instructure.com/courses/278886)
+* [Program Assignment/Challenge Site](https://byui.instructure.com/courses/278886)
+* [Vimeo  (screen and webcam recording)](https://vimeo.com/)
+* [YouTube (video hosting)](https://www.youtube.com/)
